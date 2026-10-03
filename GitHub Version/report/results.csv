@@ -1,4 +1,0 @@
-﻿configuration,learning_rate,lambda,epochs,batch_size,final_train_loss,final_train_accuracy,final_val_accuracy,selected,test_accuracy
-baseline,0.1,0.0001,8,256,0.32775219097137454,0.91062,0.9056,True,0.9143
-smaller learning rate,0.03,0.0001,8,256,0.3991806147098541,0.8941,0.8912,False,
-stronger regularization,0.1,0.01,8,256,0.5493473100662232,0.90078,0.8992,False,
